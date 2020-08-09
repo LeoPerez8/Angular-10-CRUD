@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "notebook mac pro",
+      "price": 12000
+    },
+    {
+      "name": "Leonardo",
+      "price": "3231.87",
+      "id": 3
+    },
+    {
+      "name": "Pamu Slide mini",
+      "price": "312.56",
+      "id": 4
+    },
+    {
+      "name": "Luiz",
+      "price": "00.00",
+      "id": 5
+    }
+  ]
+}
